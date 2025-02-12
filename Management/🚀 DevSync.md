@@ -1,5 +1,7 @@
 ## *Sincronizando el desarrollo, optimizando la colaboración*  
 
+<div style="text-align: center;"> <img src="Pasted image 20250212152427.png" width="300"> </div>
+
 ## 📌 Descripción General  
 **DevSync** es una plataforma de **sincronización y automatización de flujos de trabajo** para equipos de desarrollo de software. Su objetivo es mejorar la eficiencia en la colaboración de proyectos mediante integración con herramientas de control de versiones, CI/CD y gestión de tareas.  
 
@@ -104,6 +106,6 @@ DevSync ofrece una solución automatizada para sincronizar el desarrollo de soft
 | **💰 Fuentes de Ingreso**      | Suscripción Freemium, Licencias Empresariales, Servicios de Consultoría.                                                |
 | **🛠️ Recursos Clave**         | Plataforma SaaS, algoritmos de sincronización, integraciones con herramientas de desarrollo.                            |
 | **👥 Segmento de Clientes**    | Empresas de software, startups, proyectos de código abierto.                                                            |
-| **🔗 Canales de Distribución** | Página web, marketplaces de GitHub/GitLab, contacto directo con empresas.                                               |
+| **🔗 Canales de Distribución** | Página web, contacto directo con empresas.                                                                              |
 | **🏆 Ventaja Competitiva**     | Automatización avanzada, análisis de productividad, enfoque en equipos distribuidos.                                    |
 
