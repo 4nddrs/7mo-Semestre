@@ -23,6 +23,7 @@ $$
 
 ### **a) Regresión Lineal**
 La **regresión lineal** es un tipo de modelo lineal utilizado para predecir una variable continua.
+[Regresión lineal simple](https://innovacademy.com/cebtic/hubia/LinearModelSimulator/regresion_simple.html)
 
 #### **Ejemplo: Predicción del Precio de una Casa**
 La relación entre el precio (\(y\)) de una casa y su tamaño en metros cuadrados (\(x\)) podría expresarse como:
