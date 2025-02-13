@@ -18,3 +18,10 @@
 | **Mercado** 📊                              | La viabilidad del proyecto en el mercado es alta, ya que el sector de pequeñas y medianas empresas (pymes) en Bolivia está en una fase de crecimiento y digitalización. La demanda por plataformas que faciliten la gestión empresarial y la presencia en línea está aumentando, especialmente en un contexto donde las empresas buscan mejorar su competitividad. | El mercado objetivo es considerablemente grande, pero será necesario realizar una campaña educativa para familiarizar a las pymes con la plataforma. |
 | **Estrategia** 📈                           | La viabilidad estratégica es positiva, ya que el proyecto se alinea con las tendencias de transformación digital que están tomando fuerza en Bolivia. Además, al ser supervisado por la Universidad Univalle, se le otorga confianza y respaldo académico, lo que aumenta su valor estratégico. La estrategia se enfocará en la diferenciación mediante la simplicidad de uso y la personalización para pequeñas empresas. | La estrategia de crecimiento debe incluir alianzas con entidades locales y programas de capacitación para usuarios, promoviendo la plataforma como una herramienta esencial para la gestión empresarial. |
 
+## Quiz
+
+1. ssds
+2. sds
+3. sdsd
+4. sdsd
+5. 
