@@ -1,7 +1,6 @@
 ## *Sincronizando el desarrollo, optimizando la colaboración*  
 
 <div style="text-align: center;"> <img src="Pasted image 20250212152427.png" width="300"> </div>
-
 ## 📌 Descripción General  
 **DevSync** es una plataforma de **sincronización y automatización de flujos de trabajo** para equipos de desarrollo de software. Su objetivo es mejorar la eficiencia en la colaboración de proyectos mediante integración con herramientas de control de versiones, CI/CD y gestión de tareas.  
 
