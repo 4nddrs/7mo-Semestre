@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "3b1e3fe3c3a93997",
+    "type": "split",
+    "children": [
+      {
+        "id": "a862e3d9a3d44024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "405cff5c9ac9b535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management/DevSync - Plan Estratégico de TI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevSync - Plan Estratégico de TI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cac2876d01187db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "563f5286955a73b3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d55280c63a171d58",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d1aae31394934d2b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f9e1c4f14ed75ea8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "736eeaf2f6b14f25",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "78a2eccc4ac45378",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "SPM/Análisis de PYMES.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2052c523c54e9a8b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "SPM/Análisis de PYMES.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "12983190660f89f3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "SPM/Análisis de PYMES.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "05081abfe0a7d2ff",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "405cff5c9ac9b535",
+  "lastOpenFiles": [
+    "/Management/DevSync - Plan Estratégico de TI.md",
+    "/Management",
+    "Talleres I/ERP Hípico con IA para Monitoreo de Caballos.md",
+    "Tec. Emergentes II/Aprendizaje por Refuerzo (Reinforcement Learning).md",
+    "Management/DevSync - Plan Estratégico de TI.md",
+    "Talleres I",
+    "/Talleres I/ERP Hípico con IA para Monitoreo de Caballos.md",
+    "/SPM/Análisis de PYMES.md",
+    "/SPM",
+    "/Talleres I",
+    "SPM/Factibilidad y Viabilidad en el Desarrollo de Software.md",
+    "SPM/Análisis de PYMES.md",
+    "Management/🚀 DevSync.md",
+    "SPM",
+    "/SPM/Factibilidad y Viabilidad en el Desarrollo de Software.md",
+    "/Management/🚀 DevSync.md",
+    "README.md",
+    "Pasted image 20250212152427.png",
+    "Tec. Emergentes II/Aprendizaje Supervisado vs No Supervisado.md",
+    "Tec. Emergentes II/Datasets, Features y Predictions.md",
+    "Tec. Emergentes II/Introducción a Modelos Lineales.md",
+    "Tec. Emergentes II/Introducción a Machine Learning.md",
+    "Tec. Emergentes II/Cloud Computing y Redes Neuronales.md",
+    "Tec. Emergentes II",
+    "Management",
+    "Untitled.md"
+  ]
+}
