@@ -10,7 +10,7 @@
 - **Equipo de Soporte**: Proporciona asistencia técnica y atención al cliente, resolviendo incidencias y problemas.
 
 ## 🌐 **Áreas Funcionales**
-
+s
 ### 1. Desarrollo de Producto
 - **Función**: Crear y mantener la plataforma, mejorando características y corrigiendo errores.
 - **Datos**: Uso de herramientas de control de versiones, código fuente, repositorios, historial de commits y pull requests.
