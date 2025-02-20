@@ -52,10 +52,21 @@ PlayStation ha sufrido varios ataques cibernéticos que han comprometido su segu
 
 A partir de estos ataques, se identifican las siguientes vulnerabilidades en la seguridad de la información de PlayStation:
 
-- ⛔ **Infraestructura de servidores vulnerable:** Accesos no protegidos han permitido brechas de seguridad en el pasado.
-- ❌ **Deficiencias en la protección contra DDoS:** Los ataques de saturación han afectado la estabilidad del servicio.
-- 🔐 **Falta de cifrado robusto en ciertos procesos:** Información sensible ha sido expuesta en varios incidentes.
-- ⚠️ **Gestión inadecuada de amenazas internas:** Algunos ataques han aprovechado fallos en la seguridad de empleados y proveedores.
+- **🛠️ Infraestructura de servidores vulnerable:** Accesos no protegidos han permitido brechas de seguridad en el pasado.
+    
+- **🚫 Deficiencias en la protección contra DDoS:** Los ataques de saturación han afectado la estabilidad del servicio.
+    
+- **🔐 Falta de cifrado robusto en ciertos procesos:** Información sensible ha sido expuesta en varios incidentes.
+    
+- **👨‍💼 Gestión inadecuada de amenazas internas:** Algunos ataques han aprovechado fallos en la seguridad de empleados y proveedores.
+    
+- **💡 Falta de concienciación en seguridad del personal:** La falta de capacitación en seguridad cibernética aumenta el riesgo de ataques como phishing y robo de credenciales.
+    
+- **👩‍👩‍👩 Controles de acceso débiles:** Empleados y terceros pueden acceder a información sensible sin las restricciones adecuadas.
+    
+- **🔧 Procesos de selección y desvinculación de empleados inseguros:** La falta de políticas claras sobre acceso a sistemas al contratar o despedir personal puede generar brechas de seguridad.
+    
+- **📝 Falta de auditorías en políticas de seguridad:** La ausencia de revisiones constantes permite que vulnerabilidades no detectadas sean explotadas.
 
 Todas estas vulnerabilidades ponen en peligro la información sensible de los usuarios, comprometiendo su integridad.
 
