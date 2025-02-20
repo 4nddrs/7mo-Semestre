@@ -3,7 +3,7 @@
 
 ### **🎮 Sony Interactive Entertainment (PlayStation)**
 
-Sony Interactive Entertainment (SIE), más conocida por su marca PlayStation, es una subsidiaria de Sony Corporation encargada del desarrollo y distribución de hardware y software para videojuegos. Fundada en 1993, su línea de productos incluye consolas como la PlayStation 5 (💪 PS5), PlayStation 4 (🌟 PS4) y el servicio PlayStation Network (🌐 PSN), que permite juegos en línea, compras digitales y almacenamiento en la nube.
+Sony Interactive Entertainment (SIE), más conocida por su marca PlayStation, es una subsidiaria de Sony Corporation encargada del desarrollo y distribución de hardware y software para videojuegos. Fundada en 1993, su línea de productos incluye consolas como la PlayStation 5 (PS5), PlayStation 4 (PS4) y el servicio PlayStation Network (PSN), que permite juegos en línea, compras digitales y almacenamiento en la nube.
 
 ### **🛠️ Forma de Trabajo y Operaciones**
 
