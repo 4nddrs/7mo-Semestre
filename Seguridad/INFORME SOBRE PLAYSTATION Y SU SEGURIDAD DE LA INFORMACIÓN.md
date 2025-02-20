@@ -1,3 +1,4 @@
+<div style="text-align: center;"> <img src="Pasted image 20250220154234.png" width="300"> </div>
 ## 1. ⚡ Identificación de la Organización
 
 ### **🎮 Sony Interactive Entertainment (PlayStation)**
