@@ -11,10 +11,34 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 - **Mantenimiento de Infraestructura**: Monitorización a través de herramientas como Prometheus y Grafana, pero algunas acciones correctivas aún requieren intervención manual.
 
 ### Deficiencias y Oportunidades de Mejora
-- **Gestión de Incidencias**: La priorización y asignación de tickets aún requiere intervención humana.
-- **Automatización de Pruebas**: Aunque se implementan pruebas automatizadas, aún se realizan pruebas manuales en ciertos escenarios.
-- **Manejo de Documentación**: Algunos reportes y documentación técnica todavía se generan de manera manual.
-- **Facturación y Finanzas**: Procesos de validación y conciliación de pagos pueden optimizarse.
+
+1. **Gestión Financiera**:
+    - **Deficiencia**: Procesos manuales lentos y propensos a errores.
+    - **Oportunidad**: Automatizar facturación y reportes financieros para mejorar la precisión y eficiencia.
+
+2. **Producción (Desarrollo y Soporte)**:
+    - **Deficiencia**: Intervención manual en CI/CD, lo que retrasa el despliegue.
+    - **Oportunidad**: Mejorar la automatización en integración y despliegue para aumentar la velocidad y calidad del software.
+
+3. **Recursos Humanos**:
+    - **Deficiencia**: Procesos de contratación y seguimiento ineficientes.
+    - **Oportunidad**: Automatizar contratación y gestión del desempeño para optimizar tiempos y precisión.
+
+4. **Marketing y Ventas**:
+    - **Deficiencia**: Falta de coordinación entre marketing y ventas, baja conversión de leads.
+    - **Oportunidad**: Automatizar campañas publicitarias y seguimiento de leads para aumentar la conversión.
+
+5. **Atención al Cliente**:
+    - **Deficiencia**: Largos tiempos de espera y sobrecarga de soporte.
+    - **Oportunidad**: Implementar chatbots y sistemas automáticos para mejorar la experiencia del cliente y aliviar la carga de soporte.
+
+6. **Logística y Gestión de Inventarios**:
+    - **Deficiencia**: Manejo manual de inventarios que genera pérdidas y retrasos.
+    - **Oportunidad**: Automatizar inventarios, gestión de proveedores y rutas de distribución para reducir costos y tiempos.
+
+7. **Tecnología de la Información (TI)**:
+    - **Deficiencia**: Monitoreo y gestión manual de TI que puede generar vulnerabilidades.
+    - **Oportunidad**: Automatizar monitoreo y respaldo para mejorar la seguridad y reducir tiempos de inactividad.
 
 ## 2. Áreas Funcionales que se Pueden Automatizar
 
