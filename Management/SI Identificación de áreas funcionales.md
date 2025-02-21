@@ -39,17 +39,17 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 ## 3. Posibles Módulos Propuestos
 
 1. **Módulo de Automatización de Facturación y Conciliación**
-    
     - Validación automática de pagos y gestión de suscripciones.
     - Conciliación bancaria y generación automática de reportes financieros.
+
 2. **Plataforma de CI/CD Automatizada**
-    
     - Implementación de pipelines de integración continua y despliegue continuo (CI/CD).
     - Optimización del proceso de pruebas automatizadas con más cobertura y menos intervención manual.
+
 3. **Generador de Reportes Financieros y de Productividad**
-    
     - Generación automática de reportes financieros dinámicos con base en ingresos, costos y métricas operacionales.
     - Seguimiento automático de métricas de productividad del equipo y análisis de eficiencia.
+
 4. **Módulo de Gestión de Recursos Humanos Automatizada**
     
     - Automatización del proceso de contratación, onboarding y seguimiento de desempeño de los empleados.
