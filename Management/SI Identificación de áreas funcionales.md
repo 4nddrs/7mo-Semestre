@@ -50,7 +50,7 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 
 ### 💼 Gestión Financiera
 
-- **Automatización de Facturación y Conciliación**
+- **Automatización de Facturación**
 - **Generación Automática de Reportes**
 - **Gestión de Costos Operacionales**
 
