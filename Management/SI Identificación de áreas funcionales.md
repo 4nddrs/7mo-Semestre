@@ -87,7 +87,6 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 ## 5. 💰 Relación Costo-Beneficio
 
 ### 📊 Beneficios
-
 - **⏳ Ahorro de tiempo**
 - **⚖️ Mayor precisión**
 - **🌐 Escalabilidad**
