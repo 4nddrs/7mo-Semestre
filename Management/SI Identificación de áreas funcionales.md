@@ -70,7 +70,7 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 
 ## 3. 🔄 Posibles Módulos Propuestos
 
-1. **💸 Módulo de Automatización de Facturación y Conciliación**
+1. **💸 Módulo de Automatización de Facturación
 2. **🛠️ Plataforma de CI/CD Automatizada**
 3. **📊 Generador de Reportes Financieros y de Productividad**
 4. **💼 Módulo de Gestión de Recursos Humanos Automatizada**
