@@ -18,24 +18,20 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 1. **💼 Gestión Financiera**:
     - **Deficiencia**: Procesos manuales lentos y propensos a errores.
     - **Oportunidad**: Automatizar facturación y reportes financieros para mejorar la precisión y eficiencia.
-    
-2. **👨‍💻 Producción (Desarrollo y Soporte)**:
-    - **Deficiencia**: Intervención manual en CI/CD, lo que retrasa el despliegue.
-    - **Oportunidad**: Mejorar la automatización en integración y despliegue para aumentar la velocidad y calidad del software.
-    
-3. **💼 Recursos Humanos**:
+
+2. **💼 Recursos Humanos**:
     - **Deficiencia**: Procesos de contratación y seguimiento ineficientes.
     - **Oportunidad**: Automatizar contratación y gestión del desempeño para optimizar tiempos y precisión.
-    
-4. **🌟 Marketing y Ventas**:
+
+3. **🌟 Marketing y Ventas**:
     - **Deficiencia**: Falta de coordinación entre marketing y ventas, baja conversión de leads.
     - **Oportunidad**: Automatizar campañas publicitarias y seguimiento de leads para aumentar la conversión.
 
-5. **📞 Atención al Cliente**:
+4. **📞 Atención al Cliente**:
     - **Deficiencia**: Largos tiempos de espera y sobrecarga de soporte.
     - **Oportunidad**: Implementar chatbots y sistemas automáticos para mejorar la experiencia del cliente y aliviar la carga de soporte.
 
-6. **🛒 Logística y Gestión de Inventarios**:
+5. **🛒 Logística y Gestión de Inventarios**:
     - **Deficiencia**: Manejo manual de inventarios que genera pérdidas y retrasos.
     - **Oportunidad**: Automatizar inventarios, gestión de proveedores y rutas de distribución para reducir costos y tiempos.
 
@@ -52,7 +48,6 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 
 ### 💻 Producción (Desarrollo y Soporte)
 
-- **Automatización de CI/CD**
 - **Gestión de Calidad del Software**
 - **Optimización de Flujos de Trabajo**
 
@@ -67,20 +62,16 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 ## 3. 🔄 Posibles Módulos Propuestos
 
 1. **💸 Módulo de Automatización de Facturación**
-2. **🛠️ Plataforma de CI/CD Automatizada**
-3. **📊 Generador de Reportes Financieros y de Productividad**
-4. **💼 Módulo de Gestión de Recursos Humanos Automatizada**
+2. **💼 Módulo de Gestión de Recursos Humanos Automatizada**
 
 ---
 
 ## 4. 🔧 Impacto de la Automatización
 
-|Factor|🏢 Situación Actual|🌟 Situación con Automatización|
-|---|---|---|
-|**💼 Gestión Financiera**|Tareas repetitivas y propensas a errores humanos|Procesos rápidos y sin intervención manual|
-|**💡 Optimización de CI/CD**|Dependencia de intervención manual en despliegues y pruebas|Implementación fluida y automática de CI/CD|
-|**📚 Generación de Reportes Financieros**|Reportes generados manualmente, propensos a errores|Informes automáticos y siempre actualizados|
-|**💼 Gestión de Recursos Humanos**|Procesos manuales para contratación, desempeño y asistencia|Seguimiento automatizado de todos los aspectos de RRHH|
+| Factor                             | 🏢 Situación Actual                                         | 🌟 Situación con Automatización                        |
+| ---------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------ |
+| **💼 Gestión Financiera**          | Tareas repetitivas y propensas a errores humanos            | Procesos rápidos y sin intervención manual             |
+| **💼 Gestión de Recursos Humanos** | Procesos manuales para contratación, desempeño y asistencia | Seguimiento automatizado de todos los aspectos de RRHH |
 
 ---
 
