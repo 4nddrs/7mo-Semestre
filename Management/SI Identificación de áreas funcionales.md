@@ -39,9 +39,6 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
     - **Deficiencia**: Manejo manual de inventarios que genera pérdidas y retrasos.
     - **Oportunidad**: Automatizar inventarios, gestión de proveedores y rutas de distribución para reducir costos y tiempos.
 
-7. **🛡️ Tecnología de la Información (TI)**:
-    - **Deficiencia**: Monitoreo y gestión manual de TI que puede generar vulnerabilidades.
-    - **Oportunidad**: Automatizar monitoreo y respaldo para mejorar la seguridad y reducir tiempos de inactividad.
 
 ---
 
