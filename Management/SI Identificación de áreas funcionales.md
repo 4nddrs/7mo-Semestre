@@ -10,8 +10,9 @@ La empresa opera mayormente con sistemas informatizados, utilizando software y h
 
 - **💻 Desarrollo de Software**: Uso de entornos de desarrollo integrados (IDEs), sistemas de control de versiones (Git), y metodologías ágiles.
 - **📈 Gestión de Proyectos**: Uso de herramientas como Jira, Trello o ClickUp para el seguimiento de tareas.
-- **📞 Atención al Cliente**: Uso de chatbots y sistemas de tickets, pero con intervención manual en escalamiento de problemas complejos.
+- **📞 Atención al Cliente**: Uso de chatbots pero con intervención manual en escalamiento de problemas complejos.
 - **💡 Mantenimiento de Infraestructura**: Monitorización a través de herramientas como Prometheus y Grafana, pero algunas acciones correctivas aún requieren intervención manual.
+- 💵 **Gestión Financiera**: Uso de software contable para la gestión de ingresos y egresos, pero con procesos manuales en la conciliación bancaria y generación de reportes.
 
 ### 🛠️ Deficiencias y Oportunidades de Mejora
 
