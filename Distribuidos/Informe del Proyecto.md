@@ -110,6 +110,6 @@ Se espera que el negocio crezca a medida que más eventos adopten el sistema par
 - Landing Page
 	- [4nddrs/LandingQR](https://github.com/4nddrs/LandingQR) 
 - App Movil
-	 - [https://github.com/harold-ramirez/entradas-digitales](https://github.com/harold-ramirez/entradas-digitales "https://github.com/harold-ramirez/entradas-digitales")
+	 - [harold-ramirez/entradas-digitales](https://github.com/harold-ramirez/entradas-digitales "https://github.com/harold-ramirez/entradas-digitales")
 
 
