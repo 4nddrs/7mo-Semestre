@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuidos/Informe del Proyecto.md",
+                "file": "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Informe del Proyecto"
+              "title": "Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1"
             }
           }
         ]
@@ -179,12 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e0afc9772ffa532",
+  "active": "53b41243d3d975f2",
   "lastOpenFiles": [
-    "Seguridad/INFORME SOBRE PLAYSTATION Y SU SEGURIDAD DE LA INFORMACIÓN.md",
-    "Distribuidos/Informe del Proyecto.md",
-    "Distribuidos/Designación de Tareas.md",
     "Management/SI Identificación de áreas funcionales.md",
+    "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
+    "Distribuidos/Informe del Proyecto.md",
+    "Seguridad/INFORME SOBRE PLAYSTATION Y SU SEGURIDAD DE LA INFORMACIÓN.md",
+    "Distribuidos/Designación de Tareas.md",
     "Management/🚀 DevSync.md",
     "Management/DevSync - Plan Estratégico de TI.md",
     "Pasted image 20250220154234.png",
