@@ -65,93 +65,8 @@
 
 ### **Diagramas de Dependencia**
 
-🧾 Creación de factura --> 📤 Envío de factura al cliente --> 💰 Registro de pago
-		 |                                                |
- 👤 Recolectar datos          📈 Confirmar recepción
-         |                                                |
- 💵 Calcular monto            📬 Verificación de envío
-        |
- 📝 Generar factura
+![[Pasted image 20250307160155.png]]
 
-# **Automatización en Producción (Desarrollo y Soporte)**
-
-## **Paso 1: Identificar las Transacciones para cada Sistema**
-
-### **Sistema: Gestión de Calidad del Software**
-
-🔍 **Revisión de código**  
-🛠️ **Pruebas unitarias**  
-🔒 **Gestión de errores**  
-📈 **Generación de reportes de calidad**
-
-### **Sistema: Optimización de Flujos de Trabajo**
-
-⚙️ **Automatización de tareas repetitivas**  
-🔄 **Mejora continua de procesos**  
-📊 **Monitoreo del rendimiento**
-
----
-
-## **Paso 2: Dividir cada Transacción en Pasos Simples**
-
-### **Transacción: Revisión de Código**
-
-1. 📑 Asignar código a revisar.
-2. 👨‍💻 Revisar la lógica del código y estilo.
-3. ✅ Validar que el código cumpla con los estándares de calidad.
-4. 📝 Dejar comentarios y sugerencias de mejora.
-5. 🖋️ Aceptar o rechazar el código para su integración.
-
-### **Transacción: Pruebas Unitarias**
-
-1. 🔧 Configurar el entorno de pruebas.
-2. 📝 Escribir pruebas unitarias para las funciones o módulos.
-3. 🖥️ Ejecutar las pruebas.
-4. 🚨 Detectar errores o fallos en las pruebas.
-5. ✅ Validar que todas las pruebas sean exitosas.
-6. 📑 Registrar los resultados de las pruebas.
-
-### **Transacción: Gestión de Errores**
-
-1. 📋 Identificar y registrar el error.
-2. 🔍 Analizar el código relacionado con el error.
-3. 🛠️ Corregir el error encontrado.
-4. 🧪 Realizar pruebas para verificar que el error fue solucionado.
-5. ✅ Cerrar el error si la solución es efectiva.
-
-### **Transacción: Generación de Reportes de Calidad**
-
-1. 🧮 Recopilar datos de las pruebas realizadas y revisiones de código.
-2. 📊 Calcular métricas de calidad como cobertura de pruebas, errores encontrados, etc.
-3. 📑 Crear el reporte con las métricas calculadas.
-4. 📤 Enviar el reporte a los interesados.
-
----
-
-## **Paso 3: Identificar las Relaciones de Dependencia entre las Transacciones**
-
-### **Dependencias entre Transacciones**
-
-1. **Revisión de código** depende de **asignar código a revisar**.
-    
-    - **Razón**: No se puede revisar código sin que haya un código específico asignado.
-2. **Pruebas unitarias** dependen de **escribir las pruebas unitarias**.
-    
-    - **Razón**: No se pueden ejecutar pruebas si no se han escrito las pruebas previamente.
-3. **Gestión de errores** depende de **identificar y registrar el error**.
-    
-    - **Razón**: No se puede gestionar un error sin haberlo identificado y registrado.
-4. **Generación de reportes de calidad** depende de **recopilar datos de las pruebas y revisiones**.
-    
-    - **Razón**: El reporte no puede generarse sin la recopilación previa de los datos necesarios.
-
-### **Diagramas de Dependencia**
-
-🔍 Revisión de código --> 🛠️ Pruebas unitarias --> 🔒Gestión de errores --> 📈  Reportes
-       |                        |                        |
-  📑 Asignar código         📝 Escribir pruebas      📋 Identificar errores
-                               |
-                          🚨 Detectar errores
 
 # **Automatización en Recursos Humanos**
 
@@ -245,12 +160,4 @@
 
 ### **Diagramas de Dependencia**
 
-📋 Publicación de vacantes --> 💼 Selección de candidatos --> 👥 Proceso de incorporación
-		       |                                              |                                                 |
-  📝 Descripción del puesto               📂 Revisar currículum                     📋 Documentación
-
-
-📊 Evaluación del desempeño --> 📈 Análisis de productividad --> 📝 Gestión de objetivos
-	         |                                                   |                                                    |
-	    📑 Feedback                        📊 Recolectar datos                    🎯 Definir metas
-
+![[Pasted image 20250307160459.png]]
