@@ -28,7 +28,7 @@ Garantiza que los servicios estén operativos sin interrupciones. PlayStation ha
 - ❌ **Hackeo de PSN (2011):** 23 días de servicio caído, afectando a millones de usuarios.  
 
 ### **⚖️ Evaluación: 🚨 Deficiente**    
-Las interrupciones prolongadas muestran que PlayStation necesita robustecer su infraestructura y mejorar la mitigación de ataques DDoS.  
+Las interrupciones prolongadas muestran que PlayStation necesita fortalecer su infraestructura y mejorar la mitigación de ataques DDoS.  
 
 ---
 
