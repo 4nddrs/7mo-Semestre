@@ -55,7 +55,7 @@ Si bien PlayStation ha mejorado su cumplimiento, aún enfrenta riesgos si no ref
 ---
 
 ## **📌 Conclusión y Recomendaciones**
-🔹 **Confidencialidad y disponibilidad son los aspectos más débiles**, con antecedentes de   filtraciones y caídas del servicio.    
-🔹 **Se deben mejorar los controles de acceso y protección contra phishing** para fortalecer autenticidad e integridad.    
-🔹 **Reforzar la seguridad con cifrado avanzado, mitigación de DDoS y auditorías constantes** ayudará a reducir vulnerabilidades.  
-🔹🚀 **Implementar estas mejoras garantizará una mejor protección para millones de usuarios de PlayStation en todo el mundo.**
+1. **Confidencialidad y disponibilidad son los aspectos más débiles**, con antecedentes de   filtraciones y caídas del servicio.    
+ 2. **Se deben mejorar los controles de acceso y protección contra phishing** para fortalecer autenticidad e integridad.    
+3. **Reforzar la seguridad con cifrado avanzado, mitigación de DDoS y auditorías constantes** ayudará a reducir vulnerabilidades.  
+4. **Implementar estas mejoras garantizará una mejor protección para millones de usuarios de PlayStation en todo el mundo.**
