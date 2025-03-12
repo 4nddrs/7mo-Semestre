@@ -88,5 +88,7 @@ Optimizar los procesos de contratación, gestión de desempeño y control de asi
 
 ---
 
- 
+
+## UML
+![[Pasted image 20250312163011.png]]
 
