@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
-                "mode": "preview",
+                "file": "Management/📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1"
+              "title": "📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos"
             }
           }
         ]
@@ -179,11 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e0afc9772ffa532",
+  "active": "53b41243d3d975f2",
   "lastOpenFiles": [
+    "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
+    "Management/📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos.md",
     "Management/SI Identificación de áreas funcionales.md",
     "Seguridad/🛡️ Análisis y Evaluación de los Criterios de Seguridad de Información en PlayStation.md",
-    "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
     "Management/🚀 DevSync.md",
     "Pasted image 20250307160547.png",
     "Pasted image 20250307160459.png",
