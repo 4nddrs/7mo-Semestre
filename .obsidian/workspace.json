@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20250312163011.png"
+                "file": "UML.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250312163011"
+              "title": "UML"
             }
           }
         ]
@@ -177,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e0afc9772ffa532",
+  "active": "8285d44f3ad4f835",
   "lastOpenFiles": [
     "Management/📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos.md",
-    "Pasted image 20250312163011.png",
+    "UML.png",
     "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
     "Management/SI Identificación de áreas funcionales.md",
     "Seguridad/🛡️ Análisis y Evaluación de los Criterios de Seguridad de Información en PlayStation.md",
