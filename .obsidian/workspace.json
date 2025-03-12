@@ -11,14 +11,12 @@
             "id": "0e0afc9772ffa532",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Management/📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250312163011.png"
               },
-              "icon": "lucide-file",
-              "title": "📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250312163011"
             }
           }
         ]
@@ -181,9 +179,9 @@
   },
   "active": "0e0afc9772ffa532",
   "lastOpenFiles": [
+    "Management/📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos.md",
     "Pasted image 20250312163011.png",
     "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
-    "Management/📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos.md",
     "Management/SI Identificación de áreas funcionales.md",
     "Seguridad/🛡️ Análisis y Evaluación de los Criterios de Seguridad de Información en PlayStation.md",
     "Management/🚀 DevSync.md",
