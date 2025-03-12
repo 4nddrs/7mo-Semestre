@@ -88,9 +88,5 @@ Optimizar los procesos de contratación, gestión de desempeño y control de asi
 
 ---
 
-## 📌 6. Documentación y Revisión  
-### 📜 Documento de Diseño:  
-- **🏷️ Nombre del Módulo**: Descripción breve del propósito.  
-- **⚙️ Especificaciones Técnicas**: Definición de estructura y funcionalidades.  
-- **📊 Diagramas de Flujo**: Representación visual del funcionamiento de cada módulo.  
+ 
 
