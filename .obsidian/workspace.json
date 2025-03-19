@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos"
             }
+          },
+          {
+            "id": "d13b6c0c2e7e7237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distribuidos/Informe del Proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Informe del Proyecto"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e0afc9772ffa532",
+  "active": "d13b6c0c2e7e7237",
   "lastOpenFiles": [
+    "Stack Tecnologico.md",
+    "Management/📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos.md",
+    "Management/DevSync - Plan Estratégico de TI.md",
     "Management/SI Identificación de áreas funcionales.md",
     "UML.png",
-    "Management/📌 Diseño de Módulos para la Automatización de las Areas de Gestión Financiera y Recursos Humanos.md",
     "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
     "Seguridad/🛡️ Análisis y Evaluación de los Criterios de Seguridad de Información en PlayStation.md",
     "Management/🚀 DevSync.md",
@@ -192,7 +209,6 @@
     "Pasted image 20250307160155.png",
     "Pasted image 20250307160021.png",
     "Seguridad/INFORME SOBRE PLAYSTATION Y SU SEGURIDAD DE LA INFORMACIÓN.md",
-    "Management/DevSync - Plan Estratégico de TI.md",
     "Distribuidos/Informe del Proyecto.md",
     "Distribuidos/Designación de Tareas.md",
     "Pasted image 20250220154234.png",
