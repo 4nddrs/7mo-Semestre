@@ -1,12 +1,17 @@
-| **Rol**                          | **Usuarios Asociados**            | **Accesos y Permisos en los Sistemas**                                                |
-| -------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------- |
-| 📌 **Administrador TI**          | Equipo de TI, Soporte             | Gestión total de los sistemas, administración de usuarios, seguridad y mantenimiento. |
-| 🎓 **Rector**                    | Rector(a) de la Universidad       | Acceso a reportes generales, supervisión académica y administrativa.                  |
-| 📖 **Director de Carrera**       | Directores de cada facultad       | Gestión académica de facultades, aprobación de planes de estudio y reportes.          |
-| 👨‍🏫 **Docentes**               | Profesores y catedráticos         | Acceso a calificaciones, carga académica, asistencia y materiales de clase.           |
-| 🧑‍🎓 **Estudiantes**            | Alumnos de pregrado y posgrado    | Consulta de notas, inscripciones, horarios y documentos académicos.                   |
-| 📑 **Personal Administrativo**   | Coordinadores de programas        | Administración de planes de estudio, logística dentro de la Universidad.              |
-| 🏫 **Secretaría Académica**      | Personal administrativo académico | Gestión de inscripciones, expedientes y emisión de certificados.                      |
-| 📊 **Finanzas**                  | Área de contabilidad              | Gestión de pagos, matrículas, becas y facturación.                                    |
-| 🛠 **Mantenimiento y Seguridad** | Personal de infraestructura       | Gestión de activos, mantenimiento de instalaciones y seguridad física.                |
-| 📌 **Biblioteca**                | Bibliotecarios                    | Administración de préstamos, catálogo y registros de usuarios.                        |
+| **Rol**                           | **Usuarios Asociados**            | **Accesos y Permisos en los Sistemas**                                                                                                     |
+| --------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🎓 **Rector**                     | Rector(a) de la Universidad       | Acceso total a reportes generales de la universidad, supervisión de todas las áreas académicas y administrativas.                          |
+| 🎓 **Vicerrector Académico**      | Vicerrector Académico             | Supervisión de facultades, aprobación de planes de estudio, reportes académicos y seguimiento del desempeño docente.                       |
+| 🎓 **Vicerrector Administrativo** | Vicerrector Administrativo        | Gestión de recursos, planificación financiera y administrativa, control de infraestructura y logística institucional.                      |
+| 📊 **Director de Finanzas**       | Dirección Financiera              | Gestión total de pagos, presupuestos, informes financieros, control de matrículas, becas y reportes económicos institucionales.            |
+| 📊 **Contador**                   | Área de contabilidad              | Control de la contabilidad, gestión de ingresos y egresos, auditorías internas y cumplimiento normativo financiero.                        |
+| 📊 **Tesorero**                   | Área de tesorería                 | Gestión de pagos y cobros, administración de recursos financieros y relación con bancos e instituciones financieras.                       |
+| 📑 **Personal Administrativo**    | Coordinadores de programas        | Administración de planes de estudio, apoyo logístico, gestión de documentos administrativos y operativos dentro de la universidad.         |
+| 📖 **Director de Carrera**        | Directores de cada facultad       | Gestión académica de cada facultad, aprobación de planes de estudio, reportes académicos y seguimiento de docentes y estudiantes.          |
+| 🏫 **Secretaría Académica**       | Personal administrativo académico | Gestión de inscripciones, expedientes estudiantiles, emisión de certificados, programación de clases y generación de documentos oficiales. |
+| 📌 **Administrador TI**           | Equipo de TI, Soporte             | Administración completa de los sistemas, gestión de usuarios, mantenimiento, seguridad cibernética y control de accesos en la plataforma.  |
+| 👨‍🏫 **Docentes**                | Profesores y catedráticos         | Acceso a calificaciones, carga académica, asistencia, gestión de materiales de clase, comunicación con estudiantes y evaluaciones.         |
+| 🛠 **Mantenimiento y Seguridad**  | Personal de infraestructura       | Gestión de activos físicos, mantenimiento de instalaciones, seguridad de acceso a edificios y control de equipamiento tecnológico.         |
+| 📌 **Biblioteca**                 | Bibliotecarios                    | Administración de préstamos de libros, gestión del catálogo digital, control de acceso a bases de datos y recursos académicos.             |
+| 🧑‍🎓 **Estudiantes**             | Alumnos de pregrado y posgrado    | Consulta de calificaciones, inscripciones, horarios, materiales académicos, solicitud de documentos y acceso a recursos bibliográficos.    |
+
