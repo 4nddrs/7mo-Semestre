@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management/📊 Sistemas de Información y sus Aplicaciones.md",
+                "file": "Distribuidos/📊 PRESUPUESTO ESTIMADO PARA 10 AÑOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📊 Sistemas de Información y sus Aplicaciones"
+              "title": "📊 PRESUPUESTO ESTIMADO PARA 10 AÑOS"
             }
           }
         ],
@@ -196,8 +196,10 @@
   },
   "active": "d13b6c0c2e7e7237",
   "lastOpenFiles": [
-    "Management/Reporte sobre los Principales Tipos de Sistemas de Información.md",
+    "Management/Data Warehouse.md",
+    "Distribuidos/📊 PRESUPUESTO ESTIMADO PARA 10 AÑOS.md",
     "Management/📊 Sistemas de Información y sus Aplicaciones.md",
+    "Management/Reporte sobre los Principales Tipos de Sistemas de Información.md",
     "Management/Proyecto de Implementación de Sistemas de Gestión Empresarial - Parte 1.md",
     "Management/DevSync - Plan Estratégico de TI.md",
     "Management/🚀 DevSync.md",
@@ -230,8 +232,6 @@
     "Tec. Emergentes II/Aprendizaje por Refuerzo (Reinforcement Learning).md",
     "Tec. Emergentes II/Aprendizaje Supervisado vs No Supervisado.md",
     "Tec. Emergentes II/Datasets, Features y Predictions.md",
-    "Tec. Emergentes II/Introducción a Machine Learning.md",
-    "Tec. Emergentes II/Cloud Computing y Redes Neuronales.md",
     "Tec. Emergentes II",
     "SPM",
     "Pasted image 20250210161809.png",
