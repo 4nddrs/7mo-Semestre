@@ -1,10 +1,10 @@
 📌 **Diagrama del Data Warehouse (esquema estrella** 
 
 ### 📌 Tabla de Hechos: Ventas
-| ID_Venta | Fecha     | ID_Producto | ID_Tienda | ID_Proveedor | Cantidad_Vendida | Precio_Venta |
-|----------|----------|-------------|-----------|-------------|-----------------|--------------|
-| 1        | 2025-03-31 | 101         | 1         | 201         | 5               | 50.00        |
-| 2        | 2025-03-30 | 102         | 2         | 202         | 3               | 75.00        |
+| ID_Venta | ID_Producto | ID_Tienda | ID_Proveedor | Cantidad_Vendida | Precio_Venta |
+| -------- | ----------- | --------- | ------------ | ---------------- | ------------ |
+| 1        | 101         | 1         | 201          | 5                | 50.00        |
+| 2        | 102         | 2         | 202          | 3                | 75.00        |
 
 ### 📌 Dimensión Tiempo
 | ID_Fecha | Año  | Mes  | Día |
