@@ -22,17 +22,39 @@ Se realizo lo siguiente:
 
 ## Análisis e Interpretación de los resultados
 
-### Parte 1: Entrenar y validar la red convolucional básica
-
-![[Pasted image 20250424132409.png]]
-
-![[Pasted image 20250424132427.png]]
-
+### **Parte 1: Entrenar y validar la red convolucional básica
+![[Pasted image 20250427210836.png]]
+![[Pasted image 20250427210845.png]]
 ### **Parte 2:  Fine-tuning de la red pre-entrenada VGG-16 con CIFAR-10**
-![[Pasted image 20250425140741.png]]
 
-![[Pasted image 20250425140753.png]]
+![[Pasted image 20250427211206.png]]
+![[Pasted image 20250427211219.png]]
 ### **Parte 3: Entrenamiento completo de VGG-16 con CIFAR-10**
-![[Pasted image 20250425134437.png]]
+![[Pasted image 20250427212836.png]]
+![[Pasted image 20250427212844.png]]
 
-![[Pasted image 20250425134445.png]]
+## Análisis: 
+| Característica                          | Red Convolucional Básica | Fine-Tuning de VGG-16 Preentrenada | Entrenamiento Completo de VGG-16 |
+| --------------------------------------- | ------------------------ | ---------------------------------- | -------------------------------- |
+| **Arquitectura**                        | CNN simple               | VGG-16 preentrenada                | VGG-16 desde cero                |
+| **Parámetros entrenables**              | Todos                    | Capas superiores                   | Todos                            |
+| **Precisión de entrenamiento final**    | ~79%                     | ~97.9%                             | 66.36%                           |
+| **Precisión de validación final**       | ~79%                     | ~93.8%                             | 80.28%                           |
+| **Pérdida de entrenamiento final**      | ~0.5                     | ~0.06                              | 0.973                            |
+| **Pérdida de validación final**         | ~0.6                     | ~0.19                              | 0.593                            |
+| **Épocas de entrenamiento**             | 50                       | 7                                  | 5                                |
+| **Tiempo de entrenamiento**             | Bajo                     | Medio                              | Alto                             |
+| **Requiere pesos preentrenados**        | No                       | Sí                                 | No                               |
+| **Uso de transferencia de aprendizaje** | No                       | Sí                                 | No                               |
+| **Requiere GPU potente**                | No                       | Moderado                           | Sí                               |
+### Puntos a destacar:
+
+- **Red Convolucional Básica:** Este enfoque es adecuado para principiantes y experimentos rápidos. Aunque no alcanza la precisión de los modelos más complejos, ofrece un buen equilibrio entre rendimiento y simplicidad.​
+    
+- **Fine-Tuning de VGG-16 Preentrenada:** Al aprovechar los pesos preentrenados de VGG-16, este método logra una alta precisión en menos épocas, siendo eficiente en términos de tiempo y recursos. Es ideal cuando se dispone de recursos computacionales moderados y se busca alta precisión.​
+    
+- **Entrenamiento Completo de VGG-16:** Entrenar VGG-16 desde cero en CIFAR-10 puede ser desafiante debido al tamaño del conjunto de datos y la complejidad del modelo. Aunque se logra una precisión razonable, requiere más tiempo y recursos computacionales.
+
+## **Conclusión:**
+
+El fine-tuning de VGG-16 preentrenada ofrece el mejor rendimiento en términos de precisión y eficiencia. La red convolucional básica es adecuada para comenzar y entender los conceptos fundamentales. Entrenar VGG-16 desde cero puede no ser la opción más eficiente para CIFAR-10, a menos que se disponga de recursos computacionales significativos y se busque una comprensión profunda del entrenamiento desde cero.
