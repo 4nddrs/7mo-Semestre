@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seguridad/Pentesting.md",
+                "file": "Seguridad/Análisis y Limpieza de Malware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentesting"
+              "title": "Análisis y Limpieza de Malware"
             }
           }
         ],
@@ -196,9 +196,15 @@
   },
   "active": "d13b6c0c2e7e7237",
   "lastOpenFiles": [
-    "Seguridad/Matriz de Roles y Usuarios en los Sistemas de la Universidad.md",
-    "Seguridad/Análisis y Limpieza de Malware (Formbook - Troyano).md",
+    "Pasted image 20250429153738.png",
+    "Pasted image 20250429153358.png",
+    "Pasted image 20250429153344.png",
+    "Pasted image 20250429153340.png",
     "Pasted image 20250429152119.png",
+    "Seguridad/Análisis y Limpieza de Malware.md",
+    "Seguridad/Pentesting.md",
+    "Seguridad/INFORME SOBRE PLAYSTATION Y SU SEGURIDAD DE LA INFORMACIÓN.md",
+    "Seguridad/Matriz de Roles y Usuarios en los Sistemas de la Universidad.md",
     "Pasted image 20250429143653.png",
     "Pasted image 20250429141305.png",
     "Tec. Emergentes II/TRABAJO PRÁCTICO UNIDAD 3.md",
@@ -216,9 +222,6 @@
     "Pasted image 20250427212836.png",
     "Pasted image 20250427211219.png",
     "Pasted image 20250427211206.png",
-    "Pasted image 20250427210845.png",
-    "Pasted image 20250427210836.png",
-    "Pasted image 20250424154428.png",
     "README.md",
     "Tec. Emergentes II/Aprendizaje por Refuerzo (Reinforcement Learning).md",
     "Untitled.md",
@@ -229,9 +232,6 @@
     "Tec. Emergentes II/Cloud Computing y Redes Neuronales.md",
     "Tec. Emergentes II/Aprendizaje Supervisado vs No Supervisado.md",
     "Distribuidos/El Rol del Project Manager en Equipos de Desarrollo de Software.md",
-    "Seguridad/Pentesting.md",
-    "Distribuidos/📊 PRESUPUESTO ESTIMADO PARA 10 AÑOS.md",
-    "Seguridad/INVESTIGACION.md",
     "Seguridad",
     "Distribuidos",
     "Talleres I",
