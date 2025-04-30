@@ -1,5 +1,8 @@
+**Nombre:** José Andrés Menchaca Medina
+
 En base al siguiente material: 
 [VGG16_ConvolutionalNets_Pytorch][https://colab.research.google.com/drive/1pQmA74TXH0jHqL4sxqibwrExvLHwjgvo?usp=sharing]
+[Copia de VGG16_ConvolutionalNets_Pytorch][https://colab.research.google.com/drive/17v4nCJIQDX3l5OONZrMNOQb1OTYbM0Ez?usp=sharing]
 
 Se realizo lo siguiente:
 1. **Entrenar y validar la red convolucional básica con CIFAR-10:**
